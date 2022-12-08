@@ -16,7 +16,9 @@ Can be done to any webserver
 
 ## How to contribute
 
-Test 2
+Test 2,3
+
+Test master
 
 ### Copyright
 2022 Test
