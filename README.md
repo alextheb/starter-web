@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is an example projects. Adding line for rebasing example, then morge changes from myfeature branch too.
+SILLY
 
 ## Introduction
 
