@@ -4,7 +4,7 @@ SILLY
 
 ## Introduction
 
-This is a paragraph introduction example
+This is a paragraph introduction example. Fix after stash
 
 ## Purpose
 
